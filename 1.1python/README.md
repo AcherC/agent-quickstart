@@ -1,4 +1,5 @@
- 总结《Python Cookbook》第三版（David Beazley & Brian K. Jones）前四章核心内容，结合 **Agent 全栈开发** 的实际场景进行提炼，每章末尾配有一道实战代码题。
+ ## 前言
+ 本章重点掌握Python在Agent开发中的核心用法。通过总结《Python Cookbook》第三版（David Beazley & Brian K. Jones）前四章核心内容，结合 **Agent 全栈开发** 的实际场景进行提炼，每章末尾配有一道实战代码题。
 
 ---
 

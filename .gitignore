@@ -1,0 +1,16 @@
+gitignore
+# 各子模块的 Python 虚拟环境
+python/venv/
+langchain/venv/
+venv/
+
+# 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code 个人配置
+.vscode/
+
+# 环境变量文件
+.env
